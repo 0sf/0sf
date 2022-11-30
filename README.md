@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Deep Learning
+- 🎓 I'm currently an undergraduate @ [SUSL](https://www.sab.ac.lk/)
 
 <!--
 **0sf/0sf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
